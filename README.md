@@ -1,0 +1,1 @@
+## PATTERN2 [![Build status](https://ci.appveyor.com/api/projects/status/39absp7855l318e3?svg=true)](https://ci.appveyor.com/project/greyear/patterns-task2)
